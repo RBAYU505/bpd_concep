@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BPD DIY</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <script type="text/javascript" src="js/jquery-3.4.1.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+   
+   <style type="text/css">
+        @media screen and (min-width: 768px){
+          .dropdown:hover .dropdown-menu, .btn-group:hover .dropdown-menu{
+                display: block;   
+            }
+            .dropdown-menu{
+                margin-top: 0;
+            }
+            .dropdown-toggle{
+                margin-bottom: 2px;
+            }
+            .navbar .dropdown-toggle, .nav-tabs .dropdown-toggle{
+                margin-bottom: 0;
+            }
+        }
+        ul li a:hover {
+        color:#23055A !important;
+        }
+    </style>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $(".dropdown, .btn-group").hover(function(){
+                var dropdownMenu = $(this).children(".dropdown-menu");
+                if(dropdownMenu.is(":visible")){
+                    dropdownMenu.parent().toggleClass("open");
+                }
+            });
+        });     
+    </script>
+
+</head>
+<body>  
+      <div class="container">
+        <div class="row">
+        <div class="col-md-12">
+            <!-- Navbar top menu dengan dropdown hover -->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">
+                  <img src="lay/pic/icon.png" width="159" height="30" alt="">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Beranda
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Berita</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Pengumuman</a>
+                      </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Bisnis
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Ikhtisar Keuangan</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Laporan Tahunan</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Laporan Triwulan</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Laporan Bulanan</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Laporan GCG</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Laporan Pelaksanaan Tata Kelola</a>
+                      </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Produk
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Simpanan</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Kredit</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Layanan</a>
+                      </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Profil
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Sejarah</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Visi dan Misi</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Pemegang Saham</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Dewan Komisaris</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Direksi</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Pemimpin Divisi/SKAI</a>
+                      </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Lokasi
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">ATM</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Kantor</a>
+                      </div>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Karir</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Syariah</a>
+                    </li>
+                  </ul>
+                  <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-secondary" type="submit">Search</button>
+                  </form>
+                </div>
+              </nav>
+        </div>
+        </div>
+        <div class="row">
+        <div class="col-md-12">
+        <!-- Image Slider -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+            <div class="carousel-item active">
+                <a href="http://www.google.com">
+                <img src="img-news1.jpg" class="d-block w-100" alt="...">
+            </a>
+            </div>
+            <div class="carousel-item">
+                <a href="http://www.youtube.com">
+                <img src="img-news1.jpg" class="d-block w-100" alt="...">
+            </a>
+            </div>
+            <div class="carousel-item">
+            <a href="http://www.bing.com">
+                <img src="img-news1.jpg" class="d-block w-100" alt="...">
+            </a>
+            </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a>
+        </div>
+        </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-4 box3" margin="center">
+            <!-- card image view news content -->
+            <div class="card" style="width: 18rem;">
+                <img src="img-news1.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="card-link">SELENGKAPNYA . . .</a>
+                </div>
+            </div>
+          </div>
+          <div class="col-sm-4 box3" margin="center">
+            <!-- card image view news content -->
+            <div class="card" style="width: 18rem;">
+                <img src="img-news1.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="card-link">SELENGKAPNYA . . .</a>
+                </div>
+            </div>
+          </div>
+          <div class="col-sm-4 box3" margin="center">
+            <!-- card image view news content -->
+            <div class="card" style="width: 18rem;">
+                <img src="img-news1.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="card-link">SELENGKAPNYA . . .</a>
+                </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+        <div class="col-md-12 col-xs-12">Ini footer</div>
+        </div>
+      </div>
+
+
+      <div class="row portfolio">
+        <div class="col-sm-12">
+          <h2></h2>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+            <div class="card-body d-flex flex-column">
+              <h4 class="card-title">Berita 1</h4>
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem</p>
+            </div>
+          </div>
+        </div>
+    
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+            <div class="card-body d-flex flex-column">
+              <h4 class="card-title">Berita 2</h4>
+              <p class="card-text ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            </div>
+          </div>
+        </div>
+    
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+            <div class="card-body d-flex flex-column">
+              <h4 class="card-title">Berita 3</h4>
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+        
+
+
+</body>
+</html>
