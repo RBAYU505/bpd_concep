@@ -1,0 +1,2 @@
+sqls : 	sa
+	admin123
