@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99894904"
-     inkscape:cx="664.34966"
+     inkscape:cx="274.9404"
      inkscape:cy="725.17143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -206,34 +206,46 @@
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
-      <text
-         id="text927"
-         y="53.418118"
-         x="8.0520134"
-         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-         xml:space="preserve"><tspan
-           style="fill:#666666;stroke-width:0.14373875"
-           y="53.418118"
+      <g
+         id="g928">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
            x="8.0520134"
-           id="tspan925"
-           sodipodi:role="line">Laporan</tspan></text>
+           y="53.418118"
+           id="text927"><tspan
+             sodipodi:role="line"
+             id="tspan925"
+             x="8.0520134"
+             y="53.418118"
+             style="fill:#666666;stroke-width:0.14373875">Laporan</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path987"
+           d="m 33.163248,51.103029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+           style="fill:#666666;stroke-width:0.00237154" />
+      </g>
+    </g>
+    <g
+       id="g934">
       <path
          style="fill:#666666;stroke-width:0.00237154"
-         d="m 33.163248,51.103029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
-         id="path987"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       id="text931"
-       y="69.293129"
-       x="8.0520134"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="69.293129"
+         d="m 62.796582,61.686363 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+         id="path923"
+         inkscape:connector-curvature="0"
+         transform="translate(0,5.2916663)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
          x="8.0520134"
-         id="tspan929"
-         sodipodi:role="line">Ikhtisar Keuangan</tspan></text>
+         y="69.293129"
+         id="text931"><tspan
+           sodipodi:role="line"
+           id="tspan929"
+           x="8.0520134"
+           y="69.293129"
+           style="fill:#666666;stroke-width:0.14373875">Ikhtisar Keuangan</tspan></text>
+    </g>
     <g
        id="g1027"
        transform="translate(0,5.2916663)"
@@ -742,7 +754,7 @@
          y="80.937668"
          style="fill:#666666;stroke-width:0.12865964">x x x x x x x x x x x x x</tspan></text>
     <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="106.41634"
        x="144.64665"
        height="7.3731937"

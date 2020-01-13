@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99894904"
-     inkscape:cx="469.64503"
+     inkscape:cx="80.235773"
      inkscape:cy="769.73892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -201,39 +201,24 @@
          style="fill:#666666;stroke-width:0.00237154" />
     </g>
     <g
-       id="g1011"
-       transform="translate(0,5.2916663)"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200">
+       id="g939">
       <text
          id="text927"
-         y="53.418118"
+         y="58.709785"
          x="8.0520134"
          style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
          xml:space="preserve"><tspan
            style="fill:#666666;stroke-width:0.14373875"
-           y="53.418118"
+           y="58.709785"
            x="8.0520134"
            id="tspan925"
            sodipodi:role="line">Laporan</tspan></text>
       <path
          style="fill:#666666;stroke-width:0.00237154"
-         d="m 33.163248,51.103029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+         d="m 33.163248,56.394695 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
          id="path987"
          inkscape:connector-curvature="0" />
     </g>
-    <text
-       id="text931"
-       y="69.293129"
-       x="8.0520134"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="69.293129"
-         x="8.0520134"
-         id="tspan929"
-         sodipodi:role="line">Ikhtisar Keuangan</tspan></text>
     <g
        id="g1027"
        transform="translate(0,5.2916663)"
@@ -742,7 +727,7 @@
          y="91.014153"
          style="fill:#666666;stroke-width:0.12865964">x x x x x x x x x x x x x</tspan></text>
     <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="116.99969"
        x="139.35498"
        height="7.3731937"
@@ -807,5 +792,24 @@
          x="140.78873"
          id="tspan1217"
          sodipodi:role="line">. . . . .  / x x x x / x x x</tspan></text>
+    <g
+       id="g944">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+         x="8.0520134"
+         y="69.293129"
+         id="text931"><tspan
+           sodipodi:role="line"
+           id="tspan929"
+           x="8.0520134"
+           y="69.293129"
+           style="fill:#666666;stroke-width:0.14373875">Ikhtisar Keuangan</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path934"
+         d="m 63.325749,66.978029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+         style="fill:#666666;stroke-width:0.00237154" />
+    </g>
   </g>
 </svg>

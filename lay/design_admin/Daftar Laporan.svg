@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99894904"
-     inkscape:cx="218.72135"
+     inkscape:cx="24.016723"
      inkscape:cy="806.67819"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -197,36 +197,21 @@
          inkscape:connector-curvature="0" />
     </g>
     <text
-       id="text931"
-       y="90.459785"
-       x="8.0520134"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="90.459785"
+       x="8.0520134"
+       y="101.04311"
+       id="text935"><tspan
+         sodipodi:role="line"
+         id="tspan933"
          x="8.0520134"
-         id="tspan929"
-         sodipodi:role="line">Ikhtisar Keuangan</tspan></text>
-    <g
-       id="g1027"
-       transform="translate(0,26.458334)">
-      <text
-         id="text935"
-         y="74.584778"
-         x="8.0520134"
-         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-         xml:space="preserve"><tspan
-           style="fill:#666666;stroke-width:0.14373875"
-           y="74.584778"
-           x="8.0520134"
-           id="tspan933"
-           sodipodi:role="line">Produk</tspan></text>
-      <path
-         style="fill:#666666;stroke-width:0.00237154"
-         d="m 30.517413,72.269697 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
-         id="path991"
-         inkscape:connector-curvature="0" />
-    </g>
+         y="101.04311"
+         style="fill:#666666;stroke-width:0.14373875">Produk</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path991"
+       d="m 30.517413,98.728031 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513278 0.62885,0.933238 0.62966,0.933238 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933244 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+       style="fill:#666666;stroke-width:0.00237154" />
     <g
        id="g1032"
        transform="translate(0,26.458334)">
@@ -2479,5 +2464,24 @@
          x="13.34368"
          y="79.87645"
          style="fill:#666666;stroke-width:0.14373875">Laporan Baru</tspan></text>
+    <g
+       id="g1242">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+         x="8.0520134"
+         y="90.459785"
+         id="text931"><tspan
+           sodipodi:role="line"
+           id="tspan929"
+           x="8.0520134"
+           y="90.459785"
+           style="fill:#666666;stroke-width:0.14373875">Ikhtisar Keuangan</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1237"
+         d="m 62.796582,88.144697 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513278 0.62885,0.933238 0.62966,0.933238 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933244 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+         style="fill:#666666;stroke-width:0.00237154" />
+    </g>
   </g>
 </svg>

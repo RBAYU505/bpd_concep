@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70636364"
-     inkscape:cx="627.98918"
-     inkscape:cy="663.25611"
+     inkscape:zoom="1.4127273"
+     inkscape:cx="266.03724"
+     inkscape:cy="742.98957"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -176,37 +176,22 @@
          d="m 37.925751,40.519695 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
          style="fill:#666666;stroke-width:0.00237154" />
     </g>
-    <g
-       id="g1011"
-       transform="translate(0,26.458334)">
-      <text
-         id="text927"
-         y="53.418118"
-         x="8.0520134"
-         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-         xml:space="preserve"><tspan
-           style="fill:#666666;stroke-width:0.14373875"
-           y="53.418118"
-           x="8.0520134"
-           id="tspan925"
-           sodipodi:role="line">Laporan</tspan></text>
-      <path
-         style="fill:#666666;stroke-width:0.00237154"
-         d="m 33.163248,51.103029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
-         id="path987"
-         inkscape:connector-curvature="0" />
-    </g>
     <text
-       id="text931"
-       y="90.459785"
-       x="8.0520134"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="90.459785"
+       x="8.0520134"
+       y="79.87645"
+       id="text927"><tspan
+         sodipodi:role="line"
+         id="tspan925"
          x="8.0520134"
-         id="tspan929"
-         sodipodi:role="line">Ikhtisar Keuangan</tspan></text>
+         y="79.87645"
+         style="fill:#666666;stroke-width:0.14373875">Laporan</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path987"
+       d="m 33.163248,77.561363 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+       style="fill:#666666;stroke-width:0.00237154" />
     <g
        id="g1027"
        transform="translate(0,26.458334)">
@@ -2136,5 +2121,24 @@
          x="243.83997"
          id="tspan2464"
          sodipodi:role="line">Action</tspan></text>
+    <g
+       id="g1183">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+         x="8.0520134"
+         y="90.459785"
+         id="text931"><tspan
+           sodipodi:role="line"
+           id="tspan929"
+           x="8.0520134"
+           y="90.459785"
+           style="fill:#666666;stroke-width:0.14373875">Ikhtisar Keuangan</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1178"
+         d="m 62.796582,88.144697 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+         style="fill:#666666;stroke-width:0.00237154" />
+    </g>
   </g>
 </svg>
