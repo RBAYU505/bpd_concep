@@ -18,8 +18,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Berita.svg"
    inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\design_enduser_mobile\berita.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.69219276"
-     inkscape:cx="178.60199"
-     inkscape:cy="-2557.2158"
+     inkscape:cx="292.73361"
+     inkscape:cy="621.08962"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,7 +58,7 @@
      id="layer1">
     <g
        id="g937"
-       transform="translate(0,-37.041668)">
+       transform="matrix(0.94674556,0,0,1,5.7245463,-51.329168)">
       <g
          transform="translate(158.75004)"
          id="g898">
@@ -613,5 +613,23 @@
        height="1.5289546"
        x="50.896378"
        y="976.76331" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:0.99134198;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect893"
+       width="122.31659"
+       height="10.511582"
+       x="46.335976"
+       y="33.844822" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.42487478px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.13562186"
+       x="49.944714"
+       y="40.661572"
+       id="text919"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="49.944714"
+         y="40.661572"
+         style="fill:#000080;stroke-width:0.13562186">Beranda &gt; Berita</tspan></text>
   </g>
 </svg>
