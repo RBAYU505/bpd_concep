@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99894904"
-     inkscape:cx="327.57501"
+     inkscape:cx="479.50075"
      inkscape:cy="806.68144"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -141,12 +141,12 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        x="8.0520134"
-       y="164.54311"
+       y="143.90558"
        id="text959"><tspan
          sodipodi:role="line"
          id="tspan957"
          x="8.0520134"
-         y="164.54311"
+         y="143.90558"
          style="fill:#666666;stroke-width:0.14373875">Kotak Pesan</tspan></text>
     <image
        y="11.914597"
@@ -197,7 +197,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g907">
+       id="g907"
+       transform="translate(0,-20.6375)">
       <text
          id="text935"
          y="101.04311"
@@ -217,7 +218,7 @@
     </g>
     <g
        id="g1032"
-       transform="translate(0,26.458334)">
+       transform="translate(0,5.820833)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
@@ -237,7 +238,7 @@
     </g>
     <g
        id="g1037"
-       transform="translate(0,26.458334)">
+       transform="translate(0,5.820833)">
       <text
          id="text943"
          y="95.751434"
@@ -257,7 +258,7 @@
     </g>
     <g
        id="g1042"
-       transform="translate(0,26.458334)">
+       transform="translate(0,5.820833)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
@@ -277,7 +278,7 @@
     </g>
     <g
        id="g1047"
-       transform="translate(0,26.458334)">
+       transform="translate(0,5.820833)">
       <text
          id="text951"
          y="116.91809"
@@ -297,7 +298,7 @@
     </g>
     <g
        id="g1052"
-       transform="translate(0,26.458334)">
+       transform="translate(0,5.820833)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
@@ -340,93 +341,82 @@
          y="-0.75307393"
          style="fill:#ffffff;stroke-width:0.68756747">l</tspan></text>
     <text
-       id="text1691"
-       y="69.293121"
-       x="13.34368"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875;"
-         y="69.293121"
-         x="13.34368"
-         id="tspan1689"
-         sodipodi:role="line">Daftar Laporan</tspan></text>
-    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
-       x="13.34368"
-       y="79.87645"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       x="140.34369"
+       y="32.25145"
        id="text1699"><tspan
          sodipodi:role="line"
          id="tspan1697"
-         x="13.34368"
-         y="79.87645"
-         style="fill:#000080;stroke-width:0.14373875;">Laporan Baru</tspan></text>
+         x="140.34369"
+         y="32.25145"
+         style="font-weight:bold;fill:#4d4d4d;stroke-width:0.14373875">TAMBAH LAPORAN BARU</tspan></text>
     <rect
        id="rect1190"
        width="65.646431"
        height="5.2416883"
-       x="124.40326"
-       y="45.585976"
+       x="138.16164"
+       y="61.460979"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.09438149" />
     <rect
        id="rect1192"
        width="91.762619"
        height="5.2416883"
-       x="124.45607"
-       y="66.685524"
+       x="138.21445"
+       y="82.560516"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.11158713" />
     <text
        id="text1207-9"
-       y="70.208488"
-       x="89.560585"
+       y="86.083481"
+       x="103.31892"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
        xml:space="preserve"><tspan
          style="stroke-width:0.0946212"
-         y="70.208488"
-         x="89.560585"
+         y="86.083481"
+         x="103.31892"
          id="tspan1205-3"
          sodipodi:role="line">Upolad File</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
-       x="89.560585"
-       y="49.108967"
+       x="103.31892"
+       y="64.983971"
        id="text1211-1"><tspan
          sodipodi:role="line"
          id="tspan1209-5"
-         x="89.560585"
-         y="49.108967"
+         x="103.31892"
+         y="64.983971"
          style="stroke-width:0.0946212">Kategori</tspan></text>
     <text
        id="text1219-1"
-       y="70.684868"
-       x="137.33693"
+       y="86.55986"
+       x="151.09531"
        style="font-style:normal;font-weight:normal;font-size:4.54632139px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11365804"
        xml:space="preserve"><tspan
          style="fill:#666666;stroke-width:0.11365804"
-         y="70.684868"
-         x="137.33693"
+         y="86.55986"
+         x="151.09531"
          id="tspan1217-5"
          sodipodi:role="line">. . . . .  / x x x x / x x x</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1225"
-       d="m 186.72064,47.71069 c 0.002,7.9e-4 0.17847,0.26442 0.39503,0.58535 0.21657,0.32093 0.39417,0.58352 0.39468,0.58352 5.3e-4,0 0.17811,-0.26259 0.39466,-0.58352 0.21658,-0.32094 0.39435,-0.58435 0.39505,-0.58536 7.9e-4,-0.002 -0.1288,-0.002 -0.78971,-0.002 -0.66181,0 -0.79078,2.9e-4 -0.78971,0.002 z"
+       d="m 200.47897,63.585691 c 0.002,7.9e-4 0.17847,0.26442 0.39503,0.58535 0.21657,0.32093 0.39417,0.58352 0.39468,0.58352 5.3e-4,0 0.17811,-0.26259 0.39466,-0.58352 0.21658,-0.32094 0.39435,-0.58435 0.39505,-0.58536 7.9e-4,-0.002 -0.1288,-0.002 -0.78971,-0.002 -0.66181,0 -0.79078,2.9e-4 -0.78971,0.002 z"
        style="fill:#666666;stroke-width:0.00148465" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.01573348px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.07539333"
-       x="151.02287"
-       y="49.114376"
+       x="164.78125"
+       y="64.98938"
        id="text1235-0"><tspan
          sodipodi:role="line"
          id="tspan1233-6"
-         x="151.02287"
-         y="49.114376"
+         x="164.78125"
+         y="64.98938"
          style="fill:#808080;stroke-width:0.07539333">kategori</tspan></text>
     <g
        id="g1321"
-       transform="translate(-23.283335,-68.79167)">
+       transform="translate(-9.5250011,-52.916669)">
       <rect
          id="rect1194"
          width="18.952932"
@@ -450,80 +440,81 @@
        id="rect1289"
        width="33.598164"
        height="7.3731937"
-       x="157.36534"
-       y="81.2649"
+       x="171.12372"
+       y="97.139885"
        style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text1293"
-       y="86.433701"
-       x="166.75374"
+       y="102.30869"
+       x="180.51212"
        style="font-style:normal;font-weight:normal;font-size:3.79589796px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09489744"
        xml:space="preserve"><tspan
          style="font-weight:bold;fill:#ffffff;stroke-width:0.09489744"
-         y="86.433701"
-         x="166.75374"
+         y="102.30869"
+         x="180.51212"
          id="tspan1291"
          sodipodi:role="line">P O S T</tspan></text>
     <rect
        id="rect1284"
        width="119.04337"
        height="5.2416883"
-       x="124.45607"
-       y="35.002663"
+       x="138.21445"
+       y="50.877666"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.12709656" />
     <text
        id="text1291"
-       y="38.525631"
-       x="89.560585"
+       y="54.400635"
+       x="103.31892"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
        xml:space="preserve"><tspan
          style="stroke-width:0.0946212"
-         y="38.525631"
-         x="89.560585"
+         y="54.400635"
+         x="103.31892"
          id="tspan1289"
          sodipodi:role="line">Nama Laporan</tspan></text>
     <text
        id="text1296"
-       y="39.002018"
-       x="158.50362"
+       y="54.877022"
+       x="172.26199"
        style="font-style:normal;font-weight:normal;font-size:4.54632139px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11365804"
        xml:space="preserve"><tspan
          style="fill:#666666;stroke-width:0.11365804"
-         y="39.002018"
-         x="158.50362"
+         y="54.877022"
+         x="172.26199"
          id="tspan1294"
          sodipodi:role="line">x x x x x x x x x x x x x</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.12709656"
-       y="56.169342"
-       x="124.45607"
+       y="72.044342"
+       x="138.21445"
        height="5.2416883"
        width="119.04337"
        id="rect1306" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
-       x="89.560585"
-       y="59.69231"
+       x="103.31892"
+       y="75.567307"
        id="text1312"><tspan
          sodipodi:role="line"
          id="tspan1310"
-         x="89.560585"
-         y="59.69231"
+         x="103.31892"
+         y="75.567307"
          style="stroke-width:0.0946212">Tahun</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.54632139px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11365804"
-       x="158.50362"
-       y="60.16869"
+       x="172.26199"
+       y="76.043686"
        id="text1316"><tspan
          sodipodi:role="line"
          id="tspan1314"
-         x="158.50362"
-         y="60.16869"
+         x="172.26199"
+         y="76.043686"
          style="fill:#666666;stroke-width:0.11365804">x x x x x x x x x x x x x</tspan></text>
     <g
-       id="g912">
+       id="g912"
+       transform="translate(0,-20.6375)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
