@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99894904"
-     inkscape:cx="266.60011"
-     inkscape:cy="725.17144"
+     inkscape:cx="557.72036"
+     inkscape:cy="645.08728"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -156,7 +156,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        x="8.0520134"
-       y="228.04317"
+       y="206.87648"
        id="text959"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
@@ -164,7 +164,7 @@
          sodipodi:role="line"
          id="tspan957"
          x="8.0520134"
-         y="228.04317"
+         y="206.87648"
          style="fill:#666666;stroke-width:0.14373875">Kotak Pesan</tspan></text>
     <image
        y="11.914597"
@@ -244,7 +244,7 @@
     </g>
     <g
        id="g1032"
-       transform="translate(0,89.958336)"
+       transform="translate(0,68.791668)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -267,7 +267,7 @@
     </g>
     <g
        id="g1037"
-       transform="translate(0,89.958336)"
+       transform="translate(0,68.791668)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -290,7 +290,7 @@
     </g>
     <g
        id="g1042"
-       transform="translate(0,89.958336)"
+       transform="translate(0,68.791668)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -313,7 +313,7 @@
     </g>
     <g
        id="g1047"
-       transform="translate(0,89.958336)"
+       transform="translate(0,68.791668)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -336,7 +336,7 @@
     </g>
     <g
        id="g1052"
-       transform="translate(0,89.958336)"
+       transform="translate(0,68.791668)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -394,95 +394,51 @@
        id="text917"
        y="90.459778"
        x="13.34368"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875;"
+         style="fill:#666666;stroke-width:0.14373875"
          y="90.459778"
          x="13.34368"
          id="tspan915"
-         sodipodi:role="line">Daftar Simpanan</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
-       x="13.34368"
-       y="101.04311"
-       id="text925"><tspan
-         sodipodi:role="line"
-         id="tspan923"
-         x="13.34368"
-         y="101.04311"
-         style="fill:#666666;stroke-width:0.14373875;">Simpanan Baru</tspan></text>
+         sodipodi:role="line">Simpanan</tspan></text>
     <text
        id="text940"
-       y="111.62644"
+       y="101.04311"
        x="13.34368"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        xml:space="preserve"><tspan
-         style="fill:#000080;stroke-width:0.14373875;"
-         y="111.62644"
+         style="fill:#000080;stroke-width:0.14373875"
+         y="101.04311"
          x="13.34368"
          id="tspan938"
-         sodipodi:role="line">Daftar Kredit</tspan></text>
+         sodipodi:role="line">Kredit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       x="13.34368"
+       y="111.62645"
+       id="text948"><tspan
+         sodipodi:role="line"
+         id="tspan946"
+         x="13.34368"
+         y="111.62645"
+         style="fill:#666666;stroke-width:0.14373875">Layanan</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        x="13.34368"
        y="122.20978"
-       id="text944"><tspan
-         sodipodi:role="line"
-         id="tspan942"
-         x="13.34368"
-         y="122.20978"
-         style="fill:#666666;stroke-width:0.14373875">Kredit Baru</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
-       x="13.34368"
-       y="132.79311"
-       id="text948"><tspan
-         sodipodi:role="line"
-         id="tspan946"
-         x="13.34368"
-         y="132.79311"
-         style="fill:#666666;stroke-width:0.14373875;">Daftar Layanan</tspan></text>
-    <text
-       id="text952"
-       y="143.37645"
-       x="13.34368"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="143.37645"
-         x="13.34368"
-         id="tspan950"
-         sodipodi:role="line">Layanan Baru</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       x="13.34368"
-       y="153.95979"
        id="text956"><tspan
          sodipodi:role="line"
          id="tspan954"
          x="13.34368"
-         y="153.95979"
+         y="122.20978"
          style="fill:#666666;stroke-width:0.14373875">Tarif Jasa Layanan</tspan></text>
-    <text
-       id="text960"
-       y="164.54314"
-       x="13.34368"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="164.54314"
-         x="13.34368"
-         id="tspan958"
-         sodipodi:role="line">Daftar Form Masuk</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="106.05325"
-       y="46.792671"
+       y="63.433743"
        id="text1098"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -491,13 +447,13 @@
          sodipodi:role="line"
          id="tspan1096"
          x="106.05325"
-         y="46.792671"
+         y="63.433743"
          style="fill:#4d4d4d;stroke-width:0.1312547">Nama Layanan</tspan></text>
     <text
        transform="matrix(0,0.35100056,-2.8489983,0,0,0)"
        id="text1110"
        y="-37.827141"
-       x="109.44475"
+       x="154.67259"
        style="font-style:normal;font-weight:normal;font-size:22.0495224px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.55123806"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -505,14 +461,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.55123806"
          y="-37.827141"
-         x="109.44475"
+         x="154.67259"
          id="tspan1108"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.38918671,-2.5694608,0,0,0)"
        id="text1118"
        y="-63.697903"
-       x="98.705917"
+       x="139.49611"
        style="font-style:normal;font-weight:normal;font-size:19.88607216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49715179"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -520,13 +476,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.49715179"
          y="-63.697903"
-         x="98.705917"
+         x="139.49611"
          id="tspan1116"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.88607216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49715179"
-       x="98.705917"
+       x="139.49611"
        y="-81.904106"
        id="text1122"
        transform="matrix(0,0.38918671,-2.5694608,0,0,0)"
@@ -535,13 +491,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1120"
-         x="98.705917"
+         x="139.49611"
          y="-81.904106"
          style="fill:#999999;stroke-width:0.49715179">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.0495224px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.55123806"
-       x="109.44475"
+       x="154.67259"
        y="-37.827141"
        id="text1126"
        transform="matrix(0,0.35100056,-2.8489983,0,0,0)"
@@ -550,13 +506,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1124"
-         x="109.44475"
+         x="154.67259"
          y="-37.827141"
          style="fill:#999999;stroke-width:0.55123806">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.88607216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49715179"
-       x="98.705917"
+       x="139.49611"
        y="-63.697903"
        id="text1134"
        transform="matrix(0,0.38918671,-2.5694608,0,0,0)"
@@ -565,14 +521,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1132"
-         x="98.705917"
+         x="139.49611"
          y="-63.697903"
          style="fill:#999999;stroke-width:0.49715179">l</tspan></text>
     <text
        transform="matrix(0,0.38918671,-2.5694608,0,0,0)"
        id="text1138"
        y="-81.904106"
-       x="98.705917"
+       x="139.49611"
        style="font-style:normal;font-weight:normal;font-size:19.88607216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49715179"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -580,13 +536,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.49715179"
          y="-81.904106"
-         x="98.705917"
+         x="139.49611"
          id="tspan1136"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.0495224px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.55123806"
-       x="130.84859"
+       x="176.07642"
        y="-37.827141"
        id="text1158"
        transform="matrix(0,0.35100056,-2.8489983,0,0,0)"
@@ -595,13 +551,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1156"
-         x="130.84859"
+         x="176.07642"
          y="-37.827141"
          style="fill:#999999;stroke-width:0.55123806">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.88607216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49715179"
-       x="118.00962"
+       x="158.7998"
        y="-63.697903"
        id="text1166"
        transform="matrix(0,0.38918671,-2.5694608,0,0,0)"
@@ -610,14 +566,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1164"
-         x="118.00962"
+         x="158.7998"
          y="-63.697903"
          style="fill:#999999;stroke-width:0.49715179">l</tspan></text>
     <text
        transform="matrix(0,0.38918671,-2.5694608,0,0,0)"
        id="text1170"
        y="-81.904106"
-       x="118.00962"
+       x="158.7998"
        style="font-style:normal;font-weight:normal;font-size:19.88607216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49715179"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -625,14 +581,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.49715179"
          y="-81.904106"
-         x="118.00962"
+         x="158.7998"
          id="tspan1168"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.35100056,-2.8489983,0,0,0)"
        id="text1174"
        y="-37.827141"
-       x="130.84859"
+       x="176.07642"
        style="font-style:normal;font-weight:normal;font-size:22.0495224px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.55123806"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -640,14 +596,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.55123806"
          y="-37.827141"
-         x="130.84859"
+         x="176.07642"
          id="tspan1172"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.38918671,-2.5694608,0,0,0)"
        id="text1182"
        y="-63.697903"
-       x="118.00962"
+       x="158.7998"
        style="font-style:normal;font-weight:normal;font-size:19.88607216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49715179"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -655,13 +611,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.49715179"
          y="-63.697903"
-         x="118.00962"
+         x="158.7998"
          id="tspan1180"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.88607216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49715179"
-       x="118.00962"
+       x="158.7998"
        y="-81.904106"
        id="text1186"
        transform="matrix(0,0.38918671,-2.5694608,0,0,0)"
@@ -670,14 +626,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1184"
-         x="118.00962"
+         x="158.7998"
          y="-81.904106"
          style="fill:#999999;stroke-width:0.49715179">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="164.16414"
-       y="46.792671"
+       y="63.433743"
        id="text1194"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -686,13 +642,13 @@
          sodipodi:role="line"
          id="tspan1192"
          x="164.16414"
-         y="46.792671"
+         y="63.433743"
          style="fill:#4d4d4d;stroke-width:0.1312547">Deskripsi</tspan></text>
     <text
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
        id="text1198"
        y="-25.952682"
-       x="213.06873"
+       x="278.99026"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -700,13 +656,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.37819684"
          y="-25.952682"
-         x="213.06873"
+         x="278.99026"
          id="tspan1196"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="192.16272"
+       x="251.61615"
        y="-56.193287"
        id="text1210"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -715,13 +671,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1208"
-         x="192.16272"
+         x="251.61615"
          y="-56.193287"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
-       x="213.06873"
+       x="278.99026"
        y="-25.952682"
        id="text1214"
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
@@ -730,14 +686,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1212"
-         x="213.06873"
+         x="278.99026"
          y="-25.952682"
          style="fill:#999999;stroke-width:0.37819684">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1226"
        y="-56.193287"
-       x="192.16272"
+       x="251.61615"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -745,13 +701,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-56.193287"
-         x="192.16272"
+         x="251.61615"
          id="tspan1224"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
-       x="233.86667"
+       x="299.78821"
        y="-25.952682"
        id="text1230"
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
@@ -760,14 +716,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1228"
-         x="233.86667"
+         x="299.78821"
          y="-25.952682"
          style="fill:#999999;stroke-width:0.37819684">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1242"
        y="-56.193287"
-       x="210.92004"
+       x="270.37347"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -775,14 +731,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-56.193287"
-         x="210.92004"
+         x="270.37347"
          id="tspan1240"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
        id="text1246"
        y="-25.952682"
-       x="233.86667"
+       x="299.78821"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -790,13 +746,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.37819684"
          y="-25.952682"
-         x="233.86667"
+         x="299.78821"
          id="tspan1244"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="210.92004"
+       x="270.37347"
        y="-56.193287"
        id="text1258"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -805,14 +761,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1256"
-         x="210.92004"
+         x="270.37347"
          y="-56.193287"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
        id="text1262"
        y="-25.952682"
-       x="254.66461"
+       x="320.58615"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -820,13 +776,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.37819684"
          y="-25.952682"
-         x="254.66461"
+         x="320.58615"
          id="tspan1260"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="229.67743"
+       x="289.13086"
        y="-56.193287"
        id="text1274"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -835,13 +791,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1272"
-         x="229.67743"
+         x="289.13086"
          y="-56.193287"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
-       x="254.66461"
+       x="320.58615"
        y="-25.952682"
        id="text1278"
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
@@ -850,14 +806,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1276"
-         x="254.66461"
+         x="320.58615"
          y="-25.952682"
          style="fill:#999999;stroke-width:0.37819684">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1290"
        y="-56.193287"
-       x="229.67743"
+       x="289.13086"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -865,13 +821,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-56.193287"
-         x="229.67743"
+         x="289.13086"
          id="tspan1288"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
-       x="275.46255"
+       x="341.38409"
        y="-25.952682"
        id="text1294"
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
@@ -880,14 +836,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1292"
-         x="275.46255"
+         x="341.38409"
          y="-25.952682"
          style="fill:#999999;stroke-width:0.37819684">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1306"
        y="-56.193287"
-       x="248.43463"
+       x="307.88806"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -895,14 +851,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-56.193287"
-         x="248.43463"
+         x="307.88806"
          id="tspan1304"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
        id="text1310"
        y="-25.952682"
-       x="275.46255"
+       x="341.38409"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -910,13 +866,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.37819684"
          y="-25.952682"
-         x="275.46255"
+         x="341.38409"
          id="tspan1308"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="248.43463"
+       x="307.88806"
        y="-56.193287"
        id="text1322"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -925,14 +881,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1320"
-         x="248.43463"
+         x="307.88806"
          y="-56.193287"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
        id="text1326"
        y="-25.952682"
-       x="296.2605"
+       x="362.18204"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -940,13 +896,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.37819684"
          y="-25.952682"
-         x="296.2605"
+         x="362.18204"
          id="tspan1324"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="267.19196"
+       x="326.64539"
        y="-56.193287"
        id="text1338"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -955,13 +911,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1336"
-         x="267.19196"
+         x="326.64539"
          y="-56.193287"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
-       x="296.2605"
+       x="362.18204"
        y="-25.952682"
        id="text1342"
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
@@ -970,14 +926,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1340"
-         x="296.2605"
+         x="362.18204"
          y="-25.952682"
          style="fill:#999999;stroke-width:0.37819684">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1354"
        y="-56.193287"
-       x="267.19196"
+       x="326.64539"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -985,13 +941,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-56.193287"
-         x="267.19196"
+         x="326.64539"
          id="tspan1352"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
-       x="317.05844"
+       x="382.97998"
        y="-25.952682"
        id="text1358"
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
@@ -1000,14 +956,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1356"
-         x="317.05844"
+         x="382.97998"
          y="-25.952682"
          style="fill:#999999;stroke-width:0.37819684">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1370"
        y="-56.193287"
-       x="285.94922"
+       x="345.40265"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1015,14 +971,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-56.193287"
-         x="285.94922"
+         x="345.40265"
          id="tspan1368"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
        id="text1374"
        y="-25.952682"
-       x="317.05844"
+       x="382.97998"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1030,13 +986,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.37819684"
          y="-25.952682"
-         x="317.05844"
+         x="382.97998"
          id="tspan1372"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="285.94922"
+       x="345.40265"
        y="-56.193287"
        id="text1386"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -1045,14 +1001,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1384"
-         x="285.94922"
+         x="345.40265"
          y="-56.193287"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
        id="text1390"
        y="-25.952682"
-       x="337.85638"
+       x="403.77792"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1060,13 +1016,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.37819684"
          y="-25.952682"
-         x="337.85638"
+         x="403.77792"
          id="tspan1388"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="304.70642"
+       x="364.15985"
        y="-56.193287"
        id="text1402"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -1075,13 +1031,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1400"
-         x="304.70642"
+         x="364.15985"
          y="-56.193287"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
-       x="337.85638"
+       x="403.77792"
        y="-25.952682"
        id="text1406"
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
@@ -1090,14 +1046,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1404"
-         x="337.85638"
+         x="403.77792"
          y="-25.952682"
          style="fill:#999999;stroke-width:0.37819684">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1418"
        y="-56.193287"
-       x="304.70642"
+       x="364.15985"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1105,13 +1061,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-56.193287"
-         x="304.70642"
+         x="364.15985"
          id="tspan1416"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
-       x="358.65439"
+       x="424.57593"
        y="-25.952682"
        id="text1422"
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
@@ -1120,14 +1076,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1420"
-         x="358.65439"
+         x="424.57593"
          y="-25.952682"
          style="fill:#999999;stroke-width:0.37819684">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1434"
        y="-56.193287"
-       x="323.46375"
+       x="382.91718"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1135,14 +1091,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-56.193287"
-         x="323.46375"
+         x="382.91718"
          id="tspan1432"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.24081664,-4.1525369,0,0,0)"
        id="text1438"
        y="-25.952682"
-       x="358.65439"
+       x="424.57593"
        style="font-style:normal;font-weight:normal;font-size:15.12787342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37819684"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1150,13 +1106,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.37819684"
          y="-25.952682"
-         x="358.65439"
+         x="424.57593"
          id="tspan1436"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="323.46375"
+       x="382.91718"
        y="-56.193287"
        id="text1450"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -1165,12 +1121,12 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1448"
-         x="323.46375"
+         x="382.91718"
          y="-56.193287"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <g
        id="g1467"
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,-23.538976)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,-7.6639753)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1196,7 +1152,7 @@
     </g>
     <g
        id="g1472"
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,-23.538976)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,-7.6639753)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1220,7 +1176,7 @@
            sodipodi:role="line">x</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,-18.530479)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,-2.6554786)"
        id="g1480"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1246,7 +1202,7 @@
            style="fill:#ffffff;stroke-width:0.26458332">i</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,-18.530479)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,-2.6554786)"
        id="g1488"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1272,7 +1228,7 @@
     </g>
     <g
        id="g1496"
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,-13.521992)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,2.3530081)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1298,7 +1254,7 @@
     </g>
     <g
        id="g1504"
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,-13.521992)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,2.3530081)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1322,7 +1278,7 @@
            sodipodi:role="line">x</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,-8.5134953)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,7.3615048)"
        id="g1512"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1348,7 +1304,7 @@
            style="fill:#ffffff;stroke-width:0.26458332">i</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,-8.5134953)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,7.3615048)"
        id="g1520"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1374,7 +1330,7 @@
     </g>
     <g
        id="g1528"
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,-3.5050091)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,12.369991)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1400,7 +1356,7 @@
     </g>
     <g
        id="g1536"
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,-3.5050091)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,12.369991)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1424,7 +1380,7 @@
            sodipodi:role="line">x</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,1.5034776)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,17.378478)"
        id="g1544"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1450,7 +1406,7 @@
            style="fill:#ffffff;stroke-width:0.26458332">i</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,1.5034776)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,17.378478)"
        id="g1552"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1476,7 +1432,7 @@
     </g>
     <g
        id="g1560"
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,1.5034776)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,17.378478)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1502,7 +1458,7 @@
     </g>
     <g
        id="g1568"
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,1.5034776)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,17.378478)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1527,7 +1483,7 @@
     </g>
     <g
        id="g1576"
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,6.5119643)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,22.386965)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1553,7 +1509,7 @@
     </g>
     <g
        id="g1584"
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,6.5119643)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,22.386965)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1577,7 +1533,7 @@
            sodipodi:role="line">x</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,6.5119643)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,22.386965)"
        id="g1592"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1603,7 +1559,7 @@
            style="fill:#ffffff;stroke-width:0.26458332">i</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,6.5119643)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,22.386965)"
        id="g1600"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1628,7 +1584,7 @@
            style="fill:#ffffff;stroke-width:0.26458332">x</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,11.520461)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,27.395462)"
        id="g1608"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1654,7 +1610,7 @@
            style="fill:#ffffff;stroke-width:0.26458332">i</tspan></text>
     </g>
     <g
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,11.520461)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,27.395462)"
        id="g1616"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
@@ -1680,7 +1636,7 @@
     </g>
     <g
        id="g1624"
-       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,11.520461)"
+       transform="matrix(0.45819712,0,0,0.38371098,-9.6118883,27.395462)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1706,7 +1662,7 @@
     </g>
     <g
        id="g1632"
-       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,11.520461)"
+       transform="matrix(0.45819712,0,0,0.38371098,-16.885768,27.395462)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -1733,7 +1689,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="111.85564"
-       y="53.113861"
+       y="69.754936"
        id="text1636"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1742,11 +1698,11 @@
          sodipodi:role="line"
          id="tspan1634"
          x="111.85564"
-         y="53.113861"
+         y="69.754936"
          style="stroke-width:0.1312547">x x x x x x</tspan></text>
     <text
        id="text1640"
-       y="58.36412"
+       y="75.005196"
        x="111.85564"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -1755,7 +1711,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="stroke-width:0.1312547"
-         y="58.36412"
+         y="75.005196"
          x="111.85564"
          id="tspan1638"
          sodipodi:role="line">x x x x x x</tspan></text>
@@ -1763,7 +1719,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="111.85564"
-       y="63.614254"
+       y="80.255333"
        id="text1644"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1772,11 +1728,11 @@
          sodipodi:role="line"
          id="tspan1642"
          x="111.85564"
-         y="63.614254"
+         y="80.255333"
          style="stroke-width:0.1312547">x x x x x x</tspan></text>
     <text
        id="text1648"
-       y="68.864433"
+       y="85.505516"
        x="111.85564"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -1785,7 +1741,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="stroke-width:0.1312547"
-         y="68.864433"
+         y="85.505516"
          x="111.85564"
          id="tspan1646"
          sodipodi:role="line">x x x x x x</tspan></text>
@@ -1793,7 +1749,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="111.85564"
-       y="74.114609"
+       y="90.755692"
        id="text1652"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1802,11 +1758,11 @@
          sodipodi:role="line"
          id="tspan1650"
          x="111.85564"
-         y="74.114609"
+         y="90.755692"
          style="stroke-width:0.1312547">x x x x x x</tspan></text>
     <text
        id="text1656"
-       y="79.364822"
+       y="96.005905"
        x="111.85564"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -1815,7 +1771,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="stroke-width:0.1312547"
-         y="79.364822"
+         y="96.005905"
          x="111.85564"
          id="tspan1654"
          sodipodi:role="line">x x x x x x</tspan></text>
@@ -1823,7 +1779,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="111.85564"
-       y="84.615021"
+       y="101.2561"
        id="text1660"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1832,11 +1788,11 @@
          sodipodi:role="line"
          id="tspan1658"
          x="111.85564"
-         y="84.615021"
+         y="101.2561"
          style="stroke-width:0.1312547">x x x x x x</tspan></text>
     <text
        id="text1664"
-       y="89.865189"
+       y="106.50627"
        x="111.85564"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -1845,7 +1801,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="stroke-width:0.1312547"
-         y="89.865189"
+         y="106.50627"
          x="111.85564"
          id="tspan1662"
          sodipodi:role="line">x x x x x x</tspan></text>
@@ -1853,7 +1809,7 @@
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1764"
        y="-43.702286"
-       x="192.16272"
+       x="251.61615"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1861,13 +1817,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-43.702286"
-         x="192.16272"
+         x="251.61615"
          id="tspan1762"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="192.16272"
+       x="251.61615"
        y="-43.702286"
        id="text1768"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -1876,13 +1832,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1766"
-         x="192.16272"
+         x="251.61615"
          y="-43.702286"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="210.92004"
+       x="270.37347"
        y="-43.702286"
        id="text1772"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -1891,14 +1847,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1770"
-         x="210.92004"
+         x="270.37347"
          y="-43.702286"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1776"
        y="-43.702286"
-       x="210.92004"
+       x="270.37347"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1906,14 +1862,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-43.702286"
-         x="210.92004"
+         x="270.37347"
          id="tspan1774"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1780"
        y="-43.702286"
-       x="229.67743"
+       x="289.13086"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1921,13 +1877,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-43.702286"
-         x="229.67743"
+         x="289.13086"
          id="tspan1778"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="229.67743"
+       x="289.13086"
        y="-43.702286"
        id="text1784"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -1936,13 +1892,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1782"
-         x="229.67743"
+         x="289.13086"
          y="-43.702286"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="248.43463"
+       x="307.88806"
        y="-43.702286"
        id="text1788"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -1951,14 +1907,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1786"
-         x="248.43463"
+         x="307.88806"
          y="-43.702286"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1792"
        y="-43.702286"
-       x="248.43463"
+       x="307.88806"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1966,14 +1922,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-43.702286"
-         x="248.43463"
+         x="307.88806"
          id="tspan1790"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1796"
        y="-43.702286"
-       x="267.19196"
+       x="326.64539"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -1981,13 +1937,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-43.702286"
-         x="267.19196"
+         x="326.64539"
          id="tspan1794"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="267.19196"
+       x="326.64539"
        y="-43.702286"
        id="text1800"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -1996,13 +1952,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1798"
-         x="267.19196"
+         x="326.64539"
          y="-43.702286"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="285.94922"
+       x="345.40265"
        y="-43.702286"
        id="text1804"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -2011,14 +1967,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1802"
-         x="285.94922"
+         x="345.40265"
          y="-43.702286"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1808"
        y="-43.702286"
-       x="285.94922"
+       x="345.40265"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -2026,14 +1982,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-43.702286"
-         x="285.94922"
+         x="345.40265"
          id="tspan1806"
          sodipodi:role="line">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1812"
        y="-43.702286"
-       x="304.70642"
+       x="364.15985"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -2041,13 +1997,13 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-43.702286"
-         x="304.70642"
+         x="364.15985"
          id="tspan1810"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="304.70642"
+       x="364.15985"
        y="-43.702286"
        id="text1816"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -2056,13 +2012,13 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1814"
-         x="304.70642"
+         x="364.15985"
          y="-43.702286"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
-       x="323.46375"
+       x="382.91718"
        y="-43.702286"
        id="text1820"
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
@@ -2071,14 +2027,14 @@
        inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan1818"
-         x="323.46375"
+         x="382.91718"
          y="-43.702286"
          style="fill:#999999;stroke-width:0.34108901">l</tspan></text>
     <text
        transform="matrix(0,0.26701563,-3.7450991,0,0,0)"
        id="text1824"
        y="-43.702286"
-       x="323.46375"
+       x="382.91718"
        style="font-style:normal;font-weight:normal;font-size:13.64356041px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.34108901"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -2086,14 +2042,14 @@
        inkscape:export-ydpi="200"><tspan
          style="fill:#999999;stroke-width:0.34108901"
          y="-43.702286"
-         x="323.46375"
+         x="382.91718"
          id="tspan1822"
          sodipodi:role="line">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="161.53568"
-       y="53.113861"
+       y="69.754936"
        id="text1828"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -2102,11 +2058,11 @@
          sodipodi:role="line"
          id="tspan1826"
          x="161.53568"
-         y="53.113861"
+         y="69.754936"
          style="stroke-width:0.1312547">x x x x x x</tspan></text>
     <text
        id="text1832"
-       y="58.36412"
+       y="75.005196"
        x="161.53568"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -2115,7 +2071,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="stroke-width:0.1312547"
-         y="58.36412"
+         y="75.005196"
          x="161.53568"
          id="tspan1830"
          sodipodi:role="line">x x x x x x</tspan></text>
@@ -2123,7 +2079,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="161.53568"
-       y="63.614254"
+       y="80.255333"
        id="text1836"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -2132,11 +2088,11 @@
          sodipodi:role="line"
          id="tspan1834"
          x="161.53568"
-         y="63.614254"
+         y="80.255333"
          style="stroke-width:0.1312547">x x x x x x</tspan></text>
     <text
        id="text1840"
-       y="68.864433"
+       y="85.505516"
        x="161.53568"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -2145,7 +2101,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="stroke-width:0.1312547"
-         y="68.864433"
+         y="85.505516"
          x="161.53568"
          id="tspan1838"
          sodipodi:role="line">x x x x x x</tspan></text>
@@ -2153,7 +2109,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="161.53568"
-       y="74.114609"
+       y="90.755692"
        id="text1844"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -2162,11 +2118,11 @@
          sodipodi:role="line"
          id="tspan1842"
          x="161.53568"
-         y="74.114609"
+         y="90.755692"
          style="stroke-width:0.1312547">x x x x x x</tspan></text>
     <text
        id="text1848"
-       y="79.364822"
+       y="96.005905"
        x="161.53568"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -2175,7 +2131,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="stroke-width:0.1312547"
-         y="79.364822"
+         y="96.005905"
          x="161.53568"
          id="tspan1846"
          sodipodi:role="line">x x x x x x</tspan></text>
@@ -2183,7 +2139,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        x="161.53568"
-       y="84.615021"
+       y="101.2561"
        id="text1852"
        transform="scale(1.0482568,0.95396471)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\text2466.png"
@@ -2192,11 +2148,11 @@
          sodipodi:role="line"
          id="tspan1850"
          x="161.53568"
-         y="84.615021"
+         y="101.2561"
          style="stroke-width:0.1312547">x x x x x x</tspan></text>
     <text
        id="text1856"
-       y="89.865189"
+       y="106.50627"
        x="161.53568"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -2205,13 +2161,13 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="stroke-width:0.1312547"
-         y="89.865189"
+         y="106.50627"
          x="161.53568"
          id="tspan1854"
          sodipodi:role="line">x x x x x x</tspan></text>
     <text
        id="text2466"
-       y="46.792671"
+       y="63.433743"
        x="210.23898"
        style="font-style:normal;font-weight:normal;font-size:5.25018835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.1312547"
        xml:space="preserve"
@@ -2220,7 +2176,7 @@
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><tspan
          style="fill:#4d4d4d;stroke-width:0.1312547"
-         y="46.792671"
+         y="63.433743"
          x="210.23898"
          id="tspan2464"
          sodipodi:role="line">Action</tspan></text>
@@ -2243,5 +2199,50 @@
          d="m 62.267418,66.978029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
          style="fill:#666666;stroke-width:0.00237154" />
     </g>
+    <g
+       id="g1433"
+       transform="translate(103.92282,-194.65155)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.38461101;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="230.6813"
+         x="132.6059"
+         height="9.1682148"
+         width="31.350515"
+         id="rect1947" />
+      <text
+         transform="scale(0.9141957,1.0938577)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.95301628px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07382541"
+         x="147.742"
+         y="216.16408"
+         id="text1951"><tspan
+           sodipodi:role="line"
+           id="tspan1949"
+           x="147.742"
+           y="216.16408"
+           style="font-weight:bold;font-size:3.52777767px;fill:#000000;stroke-width:0.07382541">TAMBAH DATA</tspan></text>
+    </g>
+    <text
+       id="text960"
+       y="132.28162"
+       x="13.178519"
+       style="font-style:normal;font-weight:normal;font-size:5.74955034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       xml:space="preserve"><tspan
+         style="fill:#666666;stroke-width:0.14373875"
+         y="132.28162"
+         x="13.178519"
+         id="tspan958"
+         sodipodi:role="line">Form Kredit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.74955034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       x="13.178519"
+       y="142.86496"
+       id="text1188"><tspan
+         sodipodi:role="line"
+         id="tspan1186"
+         x="13.178519"
+         y="142.86496"
+         style="fill:#666666;stroke-width:0.14373875">Form Dana</tspan></text>
   </g>
 </svg>

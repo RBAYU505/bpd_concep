@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Tarif Jasa Layanan.svg"
-   inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\Tarif Jasa Layanan.png"
+   sodipodi:docname="TAMBAH Tentang Perusahaan.svg"
+   inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\tTG Perusahaan.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99894904"
-     inkscape:cx="251.87782"
-     inkscape:cy="566.67585"
+     inkscape:cx="350.63272"
+     inkscape:cy="757.41504"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -156,7 +156,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        x="8.0520134"
-       y="206.87648"
+       y="175.12645"
        id="text959"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
@@ -164,7 +164,7 @@
          sodipodi:role="line"
          id="tspan957"
          x="8.0520134"
-         y="206.87648"
+         y="175.12645"
          style="fill:#666666;stroke-width:0.14373875">Kotak Pesan</tspan></text>
     <image
        y="11.914597"
@@ -206,34 +206,46 @@
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
-      <text
-         id="text927"
-         y="53.418118"
-         x="8.0520134"
-         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-         xml:space="preserve"><tspan
-           style="fill:#666666;stroke-width:0.14373875"
-           y="53.418118"
+      <g
+         id="g928">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
            x="8.0520134"
-           id="tspan925"
-           sodipodi:role="line">Laporan</tspan></text>
+           y="53.418118"
+           id="text927"><tspan
+             sodipodi:role="line"
+             id="tspan925"
+             x="8.0520134"
+             y="53.418118"
+             style="fill:#666666;stroke-width:0.14373875">Laporan</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path987"
+           d="m 33.163248,51.103029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+           style="fill:#666666;stroke-width:0.00237154" />
+      </g>
+    </g>
+    <g
+       id="g934">
       <path
          style="fill:#666666;stroke-width:0.00237154"
-         d="m 33.163248,51.103029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
-         id="path987"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       id="text931"
-       y="69.293129"
-       x="8.0520134"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="69.293129"
+         d="m 62.796582,61.686363 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
+         id="path923"
+         inkscape:connector-curvature="0"
+         transform="translate(0,5.2916663)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
          x="8.0520134"
-         id="tspan929"
-         sodipodi:role="line">Ikhtisar Keuangan</tspan></text>
+         y="69.293129"
+         id="text931"><tspan
+           sodipodi:role="line"
+           id="tspan929"
+           x="8.0520134"
+           y="69.293129"
+           style="fill:#666666;stroke-width:0.14373875">Ikhtisar Keuangan</tspan></text>
+    </g>
     <g
        id="g1027"
        transform="translate(0,5.2916663)"
@@ -259,7 +271,7 @@
     </g>
     <g
        id="g1032"
-       transform="translate(0,68.791668)"
+       transform="translate(0,5.2916643)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -282,7 +294,7 @@
     </g>
     <g
        id="g1037"
-       transform="translate(0,68.791668)"
+       transform="translate(0,37.041666)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -305,7 +317,7 @@
     </g>
     <g
        id="g1042"
-       transform="translate(0,68.791668)"
+       transform="translate(0,37.041666)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -328,7 +340,7 @@
     </g>
     <g
        id="g1047"
-       transform="translate(0,68.791668)"
+       transform="translate(0,37.041666)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -351,7 +363,7 @@
     </g>
     <g
        id="g1052"
-       transform="translate(0,68.791668)"
+       transform="translate(0,37.041666)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -405,1284 +417,381 @@
          x="122.72123"
          y="-0.75307393"
          style="fill:#ffffff;stroke-width:0.68756747">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       x="13.34368"
+       y="101.04311"
+       id="text1189"><tspan
+         sodipodi:role="line"
+         id="tspan1187"
+         x="13.34368"
+         y="101.04311"
+         style="fill:#666666;stroke-width:0.14373875">Dewan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
+       x="13.34368"
+       y="111.62645"
+       id="text1204"><tspan
+         sodipodi:role="line"
+         id="tspan1202"
+         x="13.34368"
+         y="111.62645"
+         style="fill:#666666;stroke-width:0.14373875;">Tentang Perusahaan</tspan></text>
+    <text
+       id="text1208"
+       y="122.20978"
+       x="13.34368"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       xml:space="preserve"><tspan
+         style="fill:#666666;stroke-width:0.14373875"
+         y="122.20978"
+         x="13.34368"
+         id="tspan1206"
+         sodipodi:role="line">Pemegang Saham</tspan></text>
     <rect
-       id="rect1289-9"
-       width="23.894949"
-       height="6.2743368"
-       x="166.78755"
-       y="185.24179"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.49934092"
+       y="57.221069"
+       x="123.27946"
+       height="66.671196"
+       width="144.46576"
+       id="rect1241" />
+    <rect
+       id="rect1247"
+       width="4.9398665"
+       height="6.2319908"
+       x="126.9404"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="134.68665"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1249" />
+    <rect
+       id="rect1251"
+       width="4.9398665"
+       height="6.2319908"
+       x="142.43291"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="150.17917"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1253" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="157.92542"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1255" />
+    <rect
+       id="rect1257"
+       width="4.9398665"
+       height="6.2319908"
+       x="165.67166"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="173.41791"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1259" />
+    <rect
+       id="rect1261"
+       width="4.9398665"
+       height="6.2319908"
+       x="181.16417"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       id="rect1263"
+       width="4.9398665"
+       height="6.2319908"
+       x="188.91043"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="196.65666"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1265" />
+    <rect
+       id="rect1267"
+       width="4.9398665"
+       height="6.2319908"
+       x="204.40294"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="212.14917"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1269" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="204.40294"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1271" />
+    <rect
+       id="rect1273"
+       width="4.9398665"
+       height="6.2319908"
+       x="212.14917"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="219.89543"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1275" />
+    <rect
+       id="rect1277"
+       width="4.9398665"
+       height="6.2319908"
+       x="227.64171"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       id="rect1279"
+       width="4.9398665"
+       height="6.2319908"
+       x="235.38797"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="243.13422"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1281" />
+    <rect
+       id="rect1283"
+       width="4.9398665"
+       height="6.2319908"
+       x="250.88045"
+       y="61.215641"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="61.215641"
+       x="258.62671"
+       height="6.2319908"
+       width="4.9398665"
+       id="rect1285" />
+    <rect
+       id="rect1287"
+       width="137.10365"
+       height="43.343781"
+       x="126.81113"
+       y="72.595932"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.39222339" />
+    <rect
+       id="rect1289"
+       width="33.598164"
+       height="7.3731937"
+       x="176.92584"
+       y="127.58302"
        style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       id="text1293-2"
-       y="173.36832"
-       x="186.86388"
-       style="font-style:normal;font-weight:normal;font-size:2.95301604px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07382541"
-       xml:space="preserve"
-       transform="scale(0.91419569,1.0938577)"><tspan
-         style="font-weight:bold;fill:#ffffff;stroke-width:0.07382541"
-         y="173.36832"
-         x="186.86388"
-         id="tspan1291-0"
+       id="text1293"
+       y="132.75182"
+       x="182.61009"
+       style="font-style:normal;font-weight:normal;font-size:3.79589796px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09489744"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#ffffff;stroke-width:0.09489744"
+         y="132.75182"
+         x="182.61009"
+         id="tspan1291"
          sodipodi:role="line">S I M P A N</tspan></text>
-    <rect
-       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="185.24179"
-       x="140.4436"
-       height="6.2743368"
-       width="23.894949"
-       id="rect2925" />
+    <text
+       id="text974"
+       y="71.347404"
+       x="159.0038"
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       xml:space="preserve"
+       transform="scale(0.88072493,1.1354283)"><tspan
+         style="fill:#666666;stroke-width:0.11901346"
+         y="71.347404"
+         x="159.0038"
+         id="tspan972"
+         sodipodi:role="line">x x x x x x x x x x x x x</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.95301604px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07382541"
-       x="160.92891"
-       y="173.36832"
-       id="text2929"
-       transform="scale(0.91419569,1.0938577)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       x="225.4959"
+       y="71.347404"
+       id="text932"
+       transform="scale(0.88072493,1.1354283)"><tspan
          sodipodi:role="line"
-         id="tspan2927"
-         x="160.92891"
-         y="173.36832"
-         style="font-weight:bold;fill:#ffffff;stroke-width:0.07382541">E D I T</tspan></text>
-    <rect
-       id="rect1947"
-       width="23.894949"
-       height="6.2743368"
-       x="193.13153"
-       y="185.24179"
-       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       id="text1951"
-       y="173.36832"
-       x="216.91541"
-       style="font-style:normal;font-weight:normal;font-size:2.95301604px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07382541"
-       xml:space="preserve"
-       transform="scale(0.91419569,1.0938577)"><tspan
-         style="font-weight:bold;fill:#ffffff;stroke-width:0.07382541"
-         y="173.36832"
-         x="216.91541"
-         id="tspan1949"
-         sodipodi:role="line">H A P U S</tspan></text>
-    <rect
-       id="rect1957"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="34.730278"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="34.730278"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1632" />
+         id="tspan930"
+         x="225.4959"
+         y="71.347404"
+         style="fill:#666666;stroke-width:0.11901346">x x x x x x x x x x x x x</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.38316774px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10957919"
-       x="136.79076"
-       y="31.398092"
-       id="text1636"><tspan
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       x="159.0038"
+       y="76.888405"
+       id="text936"
+       transform="scale(0.88072493,1.1354283)"><tspan
          sodipodi:role="line"
-         id="tspan1634"
-         x="136.79076"
-         y="31.398092"
-         style="stroke-width:0.10957919">Jenis Layanan</tspan></text>
-    <text
-       id="text1640"
-       y="31.398092"
-       x="230.06448"
-       style="font-style:normal;font-weight:normal;font-size:4.38316774px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10957919"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.10957919"
-         y="31.398092"
-         x="230.06448"
-         id="tspan1638"
-         sodipodi:role="line">Tarif</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="38.454884"
-       id="text1772"><tspan
-         sodipodi:role="line"
-         id="tspan1770"
-         x="114.58733"
-         y="38.454884"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1776"
-       y="38.454884"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="38.454884"
-         x="213.54152"
-         id="tspan1774"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="40.021946"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1778" />
-    <rect
-       id="rect1780"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="40.021946"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1784"
-       y="43.746552"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="43.746552"
-         x="114.58733"
-         id="tspan1782"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="43.746552"
-       id="text1788"><tspan
-         sodipodi:role="line"
-         id="tspan1786"
-         x="213.54152"
-         y="43.746552"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1790"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="45.313614"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="45.313614"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1792" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="49.038219"
-       id="text1796"><tspan
-         sodipodi:role="line"
-         id="tspan1794"
-         x="114.58733"
-         y="49.038219"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1800"
-       y="49.038219"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="49.038219"
-         x="213.54152"
-         id="tspan1798"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="50.605282"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1802" />
-    <rect
-       id="rect1804"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="50.605282"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1808"
-       y="54.329887"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="54.329887"
-         x="114.58733"
-         id="tspan1806"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="54.329887"
-       id="text1812"><tspan
-         sodipodi:role="line"
-         id="tspan1810"
-         x="213.54152"
-         y="54.329887"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1814"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="55.89695"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="55.89695"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1816" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="59.621555"
-       id="text1820"><tspan
-         sodipodi:role="line"
-         id="tspan1818"
-         x="114.58733"
-         y="59.621555"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1824"
-       y="59.621555"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="59.621555"
-         x="213.54152"
-         id="tspan1822"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="61.188618"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1826" />
-    <rect
-       id="rect1828"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="61.188618"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1832"
-       y="64.913223"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="64.913223"
-         x="114.58733"
-         id="tspan1830"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="64.913223"
-       id="text1836"><tspan
-         sodipodi:role="line"
-         id="tspan1834"
-         x="213.54152"
-         y="64.913223"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1838"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="66.480286"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="66.480286"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1840" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="70.204887"
-       id="text1844"><tspan
-         sodipodi:role="line"
-         id="tspan1842"
-         x="114.58733"
-         y="70.204887"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1848"
-       y="70.204887"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="70.204887"
-         x="213.54152"
-         id="tspan1846"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="71.77195"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1850" />
-    <rect
-       id="rect1852"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="71.77195"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1856"
-       y="75.496552"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="75.496552"
-         x="114.58733"
-         id="tspan1854"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="75.496552"
-       id="text1860"><tspan
-         sodipodi:role="line"
-         id="tspan1858"
-         x="213.54152"
-         y="75.496552"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1862"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="77.063614"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="77.063614"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1864" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="80.788216"
-       id="text1868"><tspan
-         sodipodi:role="line"
-         id="tspan1866"
-         x="114.58733"
-         y="80.788216"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1872"
-       y="80.788216"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="80.788216"
-         x="213.54152"
-         id="tspan1870"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="82.355278"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1874" />
-    <rect
-       id="rect1876"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="82.355278"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1880"
-       y="86.07988"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="86.07988"
-         x="114.58733"
-         id="tspan1878"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="86.07988"
-       id="text1884"><tspan
-         sodipodi:role="line"
-         id="tspan1882"
-         x="213.54152"
-         y="86.07988"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1886"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="87.646942"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="87.646942"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1888" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="91.371544"
-       id="text1892"><tspan
-         sodipodi:role="line"
-         id="tspan1890"
-         x="114.58733"
-         y="91.371544"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1896"
-       y="91.371544"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="91.371544"
-         x="213.54152"
-         id="tspan1894"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="92.938606"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1898" />
-    <rect
-       id="rect1900"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="92.938606"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1904"
-       y="96.663208"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="96.663208"
-         x="114.58733"
-         id="tspan1902"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="96.663208"
-       id="text1908"><tspan
-         sodipodi:role="line"
-         id="tspan1906"
-         x="213.54152"
-         y="96.663208"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1910"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="98.23027"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="98.23027"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1912" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="101.95487"
-       id="text1916"><tspan
-         sodipodi:role="line"
-         id="tspan1914"
-         x="114.58733"
-         y="101.95487"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1920"
-       y="101.95487"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="101.95487"
-         x="213.54152"
-         id="tspan1918"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="103.52193"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1922" />
-    <rect
-       id="rect1924"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="103.52193"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1928"
-       y="107.24654"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="107.24654"
-         x="114.58733"
-         id="tspan1926"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="107.24654"
-       id="text1932"><tspan
-         sodipodi:role="line"
-         id="tspan1930"
-         x="213.54152"
-         y="107.24654"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1934"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="108.81359"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="108.81359"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1936" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="112.5382"
-       id="text1940"><tspan
-         sodipodi:role="line"
-         id="tspan1938"
-         x="114.58733"
-         y="112.5382"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1944"
-       y="112.5382"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="112.5382"
-         x="213.54152"
-         id="tspan1942"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="114.10526"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1946" />
-    <rect
-       id="rect1948"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="114.10526"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1952"
-       y="117.82986"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="117.82986"
-         x="114.58733"
-         id="tspan1950"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="117.82986"
-       id="text1956"><tspan
-         sodipodi:role="line"
-         id="tspan1954"
-         x="213.54152"
-         y="117.82986"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1958"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="119.39693"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="119.39693"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1960" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="123.12152"
-       id="text1964"><tspan
-         sodipodi:role="line"
-         id="tspan1962"
-         x="114.58733"
-         y="123.12152"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1968"
-       y="123.12152"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="123.12152"
-         x="213.54152"
-         id="tspan1966"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="124.68859"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1970" />
-    <rect
-       id="rect1972"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="124.68859"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text1976"
-       y="128.41319"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="128.41319"
-         x="114.58733"
-         id="tspan1974"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="128.41319"
-       id="text1980"><tspan
-         sodipodi:role="line"
-         id="tspan1978"
-         x="213.54152"
-         y="128.41319"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect1982"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="129.98026"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="129.98026"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect1984" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="133.70486"
-       id="text1988"><tspan
-         sodipodi:role="line"
-         id="tspan1986"
-         x="114.58733"
-         y="133.70486"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text1992"
-       y="133.70486"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="133.70486"
-         x="213.54152"
-         id="tspan1990"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="135.27193"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect1994" />
-    <rect
-       id="rect1996"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="135.27193"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text2000"
-       y="138.99654"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="138.99654"
-         x="114.58733"
-         id="tspan1998"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="138.99654"
-       id="text2004"><tspan
-         sodipodi:role="line"
-         id="tspan2002"
-         x="213.54152"
-         y="138.99654"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect2006"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="140.5636"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="140.5636"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect2008" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="144.28821"
-       id="text2012"><tspan
-         sodipodi:role="line"
-         id="tspan2010"
-         x="114.58733"
-         y="144.28821"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text2016"
-       y="144.28821"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="144.28821"
-         x="213.54152"
-         id="tspan2014"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="145.85527"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect2018" />
-    <rect
-       id="rect2020"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="145.85527"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text2024"
-       y="149.57988"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="149.57988"
-         x="114.58733"
-         id="tspan2022"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="149.57988"
-       id="text2028"><tspan
-         sodipodi:role="line"
-         id="tspan2026"
-         x="213.54152"
-         y="149.57988"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect2030"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="151.14694"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="151.14694"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect2032" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="154.87155"
-       id="text2036"><tspan
-         sodipodi:role="line"
-         id="tspan2034"
-         x="114.58733"
-         y="154.87155"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text2040"
-       y="154.87155"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="154.87155"
-         x="213.54152"
-         id="tspan2038"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="156.43861"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect2042" />
-    <rect
-       id="rect2044"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="156.43861"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text2048"
-       y="160.16322"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="160.16322"
-         x="114.58733"
-         id="tspan2046"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="160.16322"
-       id="text2052"><tspan
-         sodipodi:role="line"
-         id="tspan2050"
-         x="213.54152"
-         y="160.16322"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect2054"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="161.73029"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="161.73029"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect2056" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="165.4549"
-       id="text2060"><tspan
-         sodipodi:role="line"
-         id="tspan2058"
-         x="114.58733"
-         y="165.4549"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text2064"
-       y="165.4549"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="165.4549"
-         x="213.54152"
-         id="tspan2062"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       y="167.02196"
-       x="94.682907"
-       height="4.6639409"
-       width="108.8037"
-       id="rect2066" />
-    <rect
-       id="rect2068"
-       width="58.999805"
-       height="4.6639409"
-       x="205.07411"
-       y="167.02196"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <text
-       id="text2072"
-       y="170.74657"
-       x="114.58733"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="170.74657"
-         x="114.58733"
-         id="tspan2070"
-         sodipodi:role="line">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="213.54152"
-       y="170.74657"
-       id="text2076"><tspan
-         sodipodi:role="line"
-         id="tspan2074"
-         x="213.54152"
-         y="170.74657"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxx</tspan></text>
-    <rect
-       id="rect2078"
-       width="108.8037"
-       height="4.6639409"
-       x="94.682907"
-       y="172.31363"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.11461565"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
-    <rect
-       inkscape:export-ydpi="200"
-       inkscape:export-xdpi="200"
-       inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.08440096"
-       y="172.31363"
-       x="205.07411"
-       height="4.6639409"
-       width="58.999805"
-       id="rect2080" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       x="114.58733"
-       y="176.03824"
-       id="text2084"><tspan
-         sodipodi:role="line"
-         id="tspan2082"
-         x="114.58733"
-         y="176.03824"
-         style="fill:#999999;stroke-width:0.13103803">xxxxxxxxxxxxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text2088"
-       y="176.03824"
-       x="213.54152"
-       style="font-style:normal;font-weight:normal;font-size:5.24152088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.13103803"
-       xml:space="preserve"><tspan
-         style="fill:#999999;stroke-width:0.13103803"
-         y="176.03824"
-         x="213.54152"
-         id="tspan2086"
-         sodipodi:role="line">xxxxxxxxxxxxx</tspan></text>
-    <text
-       id="text917"
-       y="89.572731"
-       x="13.494517"
-       style="font-style:normal;font-weight:normal;font-size:5.74955034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875;"
-         y="89.572731"
-         x="13.494517"
-         id="tspan915"
-         sodipodi:role="line">Simpanan</tspan></text>
+         id="tspan934"
+         x="159.0038"
+         y="76.888405"
+         style="fill:#666666;stroke-width:0.11901346">x x x x x x x x x x x x x</tspan></text>
     <text
        id="text940"
-       y="100.15605"
-       x="13.494517"
-       style="font-style:normal;font-weight:normal;font-size:5.74955034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="100.15605"
-         x="13.494517"
+       y="76.888405"
+       x="225.4959"
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       xml:space="preserve"
+       transform="scale(0.88072493,1.1354283)"><tspan
+         style="fill:#666666;stroke-width:0.11901346"
+         y="76.888405"
+         x="225.4959"
          id="tspan938"
-         sodipodi:role="line">Kredit</tspan></text>
+         sodipodi:role="line">x x x x x x x x x x x x x</tspan></text>
+    <text
+       id="text944"
+       y="82.429413"
+       x="159.0038"
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       xml:space="preserve"
+       transform="scale(0.88072493,1.1354283)"><tspan
+         style="fill:#666666;stroke-width:0.11901346"
+         y="82.429413"
+         x="159.0038"
+         id="tspan942"
+         sodipodi:role="line">x x x x x x x x x x x x x</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.74955034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       x="13.494517"
-       y="110.73941"
-       id="text948"><tspan
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       x="225.4959"
+       y="82.429413"
+       id="text948"
+       transform="scale(0.88072493,1.1354283)"><tspan
          sodipodi:role="line"
          id="tspan946"
-         x="13.494517"
-         y="110.73941"
-         style="fill:#666666;stroke-width:0.14373875">Layanan</tspan></text>
+         x="225.4959"
+         y="82.429413"
+         style="fill:#666666;stroke-width:0.11901346">x x x x x x x x x x x x x</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.74955034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
-       x="13.494517"
-       y="121.32275"
-       id="text956"><tspan
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       x="159.0038"
+       y="87.970421"
+       id="text952"
+       transform="scale(0.88072493,1.1354283)"><tspan
          sodipodi:role="line"
+         id="tspan950"
+         x="159.0038"
+         y="87.970421"
+         style="fill:#666666;stroke-width:0.11901346">x x x x x x x x x x x x x</tspan></text>
+    <text
+       id="text956"
+       y="87.970421"
+       x="225.4959"
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       xml:space="preserve"
+       transform="scale(0.88072493,1.1354283)"><tspan
+         style="fill:#666666;stroke-width:0.11901346"
+         y="87.970421"
+         x="225.4959"
          id="tspan954"
-         x="13.494517"
-         y="121.32275"
-         style="fill:#000080;stroke-width:0.14373875;">Tarif Jasa Layanan</tspan></text>
+         sodipodi:role="line">x x x x x x x x x x x x x</tspan></text>
     <text
        id="text960"
-       y="131.90607"
-       x="13.494517"
-       style="font-style:normal;font-weight:normal;font-size:5.74955034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       xml:space="preserve"><tspan
-         style="fill:#666666;stroke-width:0.14373875"
-         y="131.90607"
-         x="13.494517"
+       y="93.511421"
+       x="159.0038"
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       xml:space="preserve"
+       transform="scale(0.88072493,1.1354283)"><tspan
+         style="fill:#666666;stroke-width:0.11901346"
+         y="93.511421"
+         x="159.0038"
          id="tspan958"
-         sodipodi:role="line">Form Kredit</tspan></text>
+         sodipodi:role="line">x x x x x x x x x x x x x</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.74955034px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
-       x="13.494517"
-       y="142.48941"
-       id="text1188"><tspan
+       style="font-style:normal;font-weight:normal;font-size:4.7605381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11901346"
+       x="225.4959"
+       y="93.511421"
+       id="text965"
+       transform="scale(0.88072493,1.1354283)"><tspan
          sodipodi:role="line"
-         id="tspan1186"
-         x="13.494517"
-         y="142.48941"
-         style="fill:#666666;stroke-width:0.14373875">Form Dana</tspan></text>
+         id="tspan963"
+         x="225.4959"
+         y="93.511421"
+         style="fill:#666666;stroke-width:0.11901346">x x x x x x x x x x x x x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="305.38553"
+       y="52.797497"
+       id="text928"><tspan
+         sodipodi:role="line"
+         id="tspan926"
+         x="305.38553"
+         y="62.452991"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       id="text933"
+       y="53.418121"
+       x="87.427017"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       xml:space="preserve"><tspan
+         style="fill:#666666;stroke-width:0.14373875"
+         y="53.418121"
+         x="87.427017"
+         id="tspan931"
+         sodipodi:role="line">Judul</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       x="87.427017"
+       y="64.00145"
+       id="text945"><tspan
+         sodipodi:role="line"
+         id="tspan943"
+         x="87.427017"
+         y="64.00145"
+         style="fill:#666666;stroke-width:0.14373875">Deskripsi</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.17713648"
+       y="46.666763"
+       x="123.16961"
+       height="8.3820372"
+       width="144.60233"
+       id="rect967" />
+    <text
+       id="text971"
+       y="32.251442"
+       x="140.34369"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#666666;stroke-width:0.14373875"
+         y="32.251442"
+         x="140.34369"
+         id="tspan969"
+         sodipodi:role="line">TENTANG PERUSAHAAN</tspan></text>
   </g>
 </svg>

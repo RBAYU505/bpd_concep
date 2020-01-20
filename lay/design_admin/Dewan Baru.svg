@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99894904"
-     inkscape:cx="499.75817"
+     inkscape:cx="570.37777"
      inkscape:cy="725.17143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -156,7 +156,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        x="8.0520134"
-       y="185.70979"
+       y="175.12645"
        id="text959"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
@@ -164,7 +164,7 @@
          sodipodi:role="line"
          id="tspan957"
          x="8.0520134"
-         y="185.70979"
+         y="175.12645"
          style="fill:#666666;stroke-width:0.14373875">Kotak Pesan</tspan></text>
     <image
        y="11.914597"
@@ -267,7 +267,7 @@
     </g>
     <g
        id="g1037"
-       transform="translate(0,47.625)"
+       transform="translate(0,37.041666)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -290,7 +290,7 @@
     </g>
     <g
        id="g1042"
-       transform="translate(0,47.625)"
+       transform="translate(0,37.041666)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -313,7 +313,7 @@
     </g>
     <g
        id="g1047"
-       transform="translate(0,47.625)"
+       transform="translate(0,37.041666)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -336,7 +336,7 @@
     </g>
     <g
        id="g1052"
-       transform="translate(0,47.625)"
+       transform="translate(0,37.041666)"
        inkscape:export-filename="C:\Users\user\Desktop\bpd_dev\lay\g1429.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200">
@@ -392,7 +392,7 @@
          style="fill:#ffffff;stroke-width:0.68756747">l</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        x="13.34368"
        y="101.04311"
        id="text1189"><tspan
@@ -400,43 +400,32 @@
          id="tspan1187"
          x="13.34368"
          y="101.04311"
-         style="fill:#666666;stroke-width:0.14373875;">Daftar Dewan</tspan></text>
-    <text
-       id="text1200"
-       y="111.62644"
-       x="13.34368"
-       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.14373875;"
-       xml:space="preserve"><tspan
-         style="fill:#000080;stroke-width:0.14373875;"
-         y="111.62644"
-         x="13.34368"
-         id="tspan1198"
-         sodipodi:role="line">Dewan Baru</tspan></text>
+         style="fill:#666666;stroke-width:0.14373875">Dewan</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        x="13.34368"
-       y="122.20978"
+       y="111.62645"
        id="text1204"><tspan
          sodipodi:role="line"
          id="tspan1202"
          x="13.34368"
-         y="122.20978"
+         y="111.62645"
          style="fill:#666666;stroke-width:0.14373875">Tentang Perusahaan</tspan></text>
     <text
        id="text1208"
-       y="132.79311"
+       y="122.20978"
        x="13.34368"
        style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
        xml:space="preserve"><tspan
          style="fill:#666666;stroke-width:0.14373875"
-         y="132.79311"
+         y="122.20978"
          x="13.34368"
          id="tspan1206"
          sodipodi:role="line">Pemegang Saham</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.12709656"
-       y="46.82209"
+       y="57.405426"
        x="120.36653"
        height="5.2416883"
        width="119.04337"
@@ -446,49 +435,49 @@
        width="63.792397"
        height="5.2416883"
        x="120.31374"
-       y="36.238754"
+       y="46.82209"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.09303916" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
        x="85.471062"
-       y="50.345066"
+       y="60.928402"
        id="text1211"><tspan
          sodipodi:role="line"
          id="tspan1209"
          x="85.471062"
-         y="50.345066"
+         y="60.928402"
          style="stroke-width:0.0946212">Nama Dewan</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.54632139px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11365804"
        x="154.41411"
-       y="50.821465"
+       y="61.404797"
        id="text1215"><tspan
          sodipodi:role="line"
          id="tspan1213"
          x="154.41411"
-         y="50.821465"
+         y="61.404797"
          style="fill:#666666;stroke-width:0.11365804">x x x x x x x x x x x x x</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1225"
-       d="m 177.33947,38.363478 c 0.002,7.94e-4 0.17847,0.264423 0.39503,0.585354 0.21657,0.320931 0.39417,0.583516 0.39468,0.583516 5.3e-4,0 0.17811,-0.262585 0.39466,-0.583516 0.21658,-0.320939 0.39435,-0.584346 0.39505,-0.585362 7.9e-4,-0.0016 -0.1288,-0.0016 -0.78971,-0.0016 -0.66181,0 -0.79078,2.94e-4 -0.78971,0.0016 z"
+       d="m 177.33947,48.946812 c 0.002,7.94e-4 0.17847,0.264423 0.39503,0.585354 0.21657,0.320931 0.39417,0.583516 0.39468,0.583516 5.3e-4,0 0.17811,-0.262585 0.39466,-0.583516 0.21658,-0.320939 0.39435,-0.584346 0.39505,-0.585362 7.9e-4,-0.0016 -0.1288,-0.0016 -0.78971,-0.0016 -0.66181,0 -0.79078,2.94e-4 -0.78971,0.0016 z"
        style="fill:#666666;stroke-width:0.00148465" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.01573348px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.07539333"
        x="141.64171"
-       y="39.767117"
+       y="50.350452"
        id="text1235"><tspan
          sodipodi:role="line"
          id="tspan1233"
          x="141.64171"
-         y="39.767117"
+         y="50.350452"
          style="fill:#808080;stroke-width:0.07539333">kategori</tspan></text>
     <rect
        style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.47687143"
-       y="78.437836"
+       y="89.021164"
        x="120.36653"
        height="56.076729"
        width="156.6494"
@@ -497,23 +486,23 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
        x="85.471062"
-       y="81.960793"
+       y="92.544121"
        id="text1245"><tspan
          sodipodi:role="line"
          id="tspan1243"
          x="85.471062"
-         y="81.960793"
+         y="92.544121"
          style="stroke-width:0.0946212">Deskripsi</tspan></text>
     <rect
        id="rect1247"
        width="5.3564739"
        height="5.2416887"
        x="124.33623"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="132.73576"
        height="5.2416887"
        width="5.3564739"
@@ -523,18 +512,18 @@
        width="5.3564739"
        height="5.2416887"
        x="141.13531"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="149.53487"
        height="5.2416887"
        width="5.3564739"
        id="rect1253" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="157.9344"
        height="5.2416887"
        width="5.3564739"
@@ -544,11 +533,11 @@
        width="5.3564739"
        height="5.2416887"
        x="166.33392"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="174.73347"
        height="5.2416887"
        width="5.3564739"
@@ -558,18 +547,18 @@
        width="5.3564739"
        height="5.2416887"
        x="183.13303"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        id="rect1263"
        width="5.3564739"
        height="5.2416887"
        x="191.53256"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="199.93208"
        height="5.2416887"
        width="5.3564739"
@@ -579,18 +568,18 @@
        width="5.3564739"
        height="5.2416887"
        x="208.33163"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="216.73117"
        height="5.2416887"
        width="5.3564739"
        id="rect1269" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="208.33163"
        height="5.2416887"
        width="5.3564739"
@@ -600,11 +589,11 @@
        width="5.3564739"
        height="5.2416887"
        x="216.73117"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="225.13072"
        height="5.2416887"
        width="5.3564739"
@@ -614,18 +603,18 @@
        width="5.3564739"
        height="5.2416887"
        x="233.53027"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        id="rect1279"
        width="5.3564739"
        height="5.2416887"
        x="241.92982"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="250.32936"
        height="5.2416887"
        width="5.3564739"
@@ -635,11 +624,11 @@
        width="5.3564739"
        height="5.2416887"
        x="258.72888"
-       y="81.797646"
+       y="92.380974"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       y="81.797646"
+       y="92.380974"
        x="267.12842"
        height="5.2416887"
        width="5.3564739"
@@ -649,34 +638,34 @@
        width="148.66641"
        height="36.456184"
        x="124.19607"
-       y="91.369545"
+       y="101.95287"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.37457398" />
     <rect
        id="rect1289"
        width="33.598164"
        height="7.3731937"
        x="176.41338"
-       y="143.50255"
+       y="154.08589"
        style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text1293"
-       y="148.67136"
+       y="159.2547"
        x="185.80174"
        style="font-style:normal;font-weight:normal;font-size:3.79589796px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09489744"
        xml:space="preserve"><tspan
          style="font-weight:bold;fill:#ffffff;stroke-width:0.09489744"
-         y="148.67136"
+         y="159.2547"
          x="185.80174"
          id="tspan1291"
          sodipodi:role="line">P O S T</tspan></text>
     <text
        id="text964"
-       y="39.761726"
+       y="50.345062"
        x="85.471062"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
        xml:space="preserve"><tspan
          style="stroke-width:0.0946212"
-         y="39.761726"
+         y="50.345062"
          x="85.471062"
          id="tspan962"
          sodipodi:role="line">Kategori</tspan></text>
@@ -685,33 +674,33 @@
        width="119.04337"
        height="5.2416883"
        x="120.36653"
-       y="57.40543"
+       y="67.988762"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.12709656" />
     <text
        id="text970"
-       y="60.928398"
+       y="71.511726"
        x="85.471062"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
        xml:space="preserve"><tspan
          style="stroke-width:0.0946212"
-         y="60.928398"
+         y="71.511726"
          x="85.471062"
          id="tspan968"
          sodipodi:role="line">Jabatan</tspan></text>
     <text
        id="text974"
-       y="50.821465"
+       y="61.404797"
        x="154.41411"
        style="font-style:normal;font-weight:normal;font-size:4.54632139px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11365804"
        xml:space="preserve"><tspan
          style="fill:#666666;stroke-width:0.11365804"
-         y="50.821465"
+         y="61.404797"
          x="154.41411"
          id="tspan972"
          sodipodi:role="line">x x x x x x x x x x x x x</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.12709656"
-       y="67.988754"
+       y="78.572083"
        x="120.36653"
        height="5.2416883"
        width="119.04337"
@@ -720,29 +709,29 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.78484845px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0946212"
        x="85.471062"
-       y="71.511719"
+       y="82.095047"
        id="text980"><tspan
          sodipodi:role="line"
          id="tspan978"
          x="85.471062"
-         y="71.511719"
+         y="82.095047"
          style="stroke-width:0.0946212">Upload Foto</tspan></text>
     <rect
        id="rect994"
        width="32.288399"
        height="5.2562332"
        x="243.60243"
-       y="67.914375"
+       y="78.497704"
        style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.7791124;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        transform="scale(0.97895741,1.0214949)"
        id="text998"
-       y="70.291451"
+       y="80.652077"
        x="260.1163"
        style="font-style:normal;font-weight:normal;font-size:3.72633338px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09315833"
        xml:space="preserve"><tspan
          style="stroke-width:0.09315833"
-         y="70.291451"
+         y="80.652077"
          x="260.1163"
          id="tspan996"
          sodipodi:role="line">ambil</tspan></text>
@@ -750,21 +739,21 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.54632139px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11365804"
        x="154.41411"
-       y="71.920998"
+       y="82.504326"
        id="text1002"><tspan
          sodipodi:role="line"
          id="tspan1000"
          x="154.41411"
-         y="71.920998"
+         y="82.504326"
          style="fill:#666666;stroke-width:0.11365804">. . . . .  / x x x x / x x x</tspan></text>
     <text
        id="text1297"
-       y="61.4048"
+       y="71.988129"
        x="154.41411"
        style="font-style:normal;font-weight:normal;font-size:4.54632139px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11365804"
        xml:space="preserve"><tspan
          style="fill:#666666;stroke-width:0.11365804"
-         y="61.4048"
+         y="71.988129"
          x="154.41411"
          id="tspan1295"
          sodipodi:role="line">x x x x x x x x x x x x x</tspan></text>
@@ -772,12 +761,12 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.54632139px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.11365804"
        x="154.41411"
-       y="61.4048"
+       y="71.988129"
        id="text1301"><tspan
          sodipodi:role="line"
          id="tspan1299"
          x="154.41411"
-         y="61.4048"
+         y="71.988129"
          style="fill:#666666;stroke-width:0.11365804">x x x x x x x x x x x x x</tspan></text>
     <g
        id="g953"
@@ -801,5 +790,16 @@
          d="m 62.796582,66.978029 c 0.0025,0.0015 0.284727,0.422911 0.63023,0.936191 0.345503,0.513281 0.62885,0.933239 0.62966,0.933239 6.59e-4,0 0.284144,-0.41996 0.629635,-0.933245 0.345516,-0.513285 0.629128,-0.934571 0.630255,-0.936191 0.0013,-0.0025 -0.205489,-0.0029 -1.25989,-0.0029 -1.055844,0 -1.261599,4.74e-4 -1.25989,0.0029 z"
          style="fill:#666666;stroke-width:0.00237154" />
     </g>
+    <text
+       id="text934"
+       y="32.251457"
+       x="156.2187"
+       style="font-style:normal;font-weight:normal;font-size:5.74954987px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.14373875"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#666666;stroke-width:0.14373875"
+         y="32.251457"
+         x="156.2187"
+         id="tspan932"
+         sodipodi:role="line">TAMBAH DEWAN</tspan></text>
   </g>
 </svg>
